@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=404fixer)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=404fixer)
+[![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=404fixer)](https://github.com/404fixer/github-readme-stats)
 
 
 <!--
